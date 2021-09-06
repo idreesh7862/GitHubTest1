@@ -8,6 +8,7 @@ namespace GitHubTest1
         {
             Console.WriteLine("Hello World!");
             Console.Write("Pain is suffering");
+            Console.WriteLine("This should work");
         }
     }
 }
